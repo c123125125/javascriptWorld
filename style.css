@@ -1,0 +1,23 @@
+h1{
+    color:brown;
+}
+
+input{
+    width: 500px;
+}
+
+textarea{
+    width: 500px;
+}
+
+button{
+    width: 500px;
+    background-color: skyblue;
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
